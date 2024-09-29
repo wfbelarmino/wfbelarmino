@@ -1,7 +1,11 @@
 ## Olá! Eu sou o Wagner Belarmino  👋
 
 ### Apresentação:
+Com 15 anos de sólida experiência na área de Tecnologia da Informação e conhecimento em desenvolvimento de software, ao longo de minha trajetória profissional, tive a oportunidade de atuar em diversos projetos, desde o desenvolvimento de sistemas robustos até a implementação de soluções em nuvem. Nos últimos 3 anos, tenho me dedicado intensamente à programação, utilizando linguagens como C# e Java , e frameworks como Angular, CSS e JavaScript para criar interfaces intuitivas e eficientes.
 
+Possuo conhecimento em tecnologias, como Docker e Kubernetes, o que me permite construir e gerenciar infraestruturas escaláveis e seguras. Além disso, uso ativamente o GitHub, o que demonstra minha familiaridade com práticas de desenvolvimento colaborativo e controle de versão.
+
+Minha experiência em Azure e AWS, me permite oferecer um perfil completo, com a capacidade de trabalhar em diferentes ambientes de nuvem. Sou um profissional altamente motivado, com forte capacidade de aprendizado e adaptação a novas tecnologias.
 
 
 ## Tecnologias que eu uso no meu dia
