@@ -14,6 +14,8 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+![Wfbelarmino GitHub stats](https://github-readme-stats.vercel.app/api?username=wfbelarmino&theme=dark&show_icons=true)
+
 <div> 
   <a href = "mailto:wfbelarmino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wagner-ferreira-dos-s-belarmino-souza-71416261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
