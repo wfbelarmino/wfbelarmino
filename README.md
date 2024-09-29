@@ -31,4 +31,5 @@ Minha experiência em Azure e AWS, me permite oferecer um perfil completo, com a
   
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfbelarmino)](https://github.com/anuraghazra/github-readme-stats)
 
